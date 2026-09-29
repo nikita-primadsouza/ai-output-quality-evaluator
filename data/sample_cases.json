@@ -1,0 +1,22 @@
+[
+  {
+    "label": "High-quality response",
+    "prompt": "Explain what photosynthesis is in two sentences.",
+    "response": "Photosynthesis is the process plants use to turn sunlight, water and carbon dioxide into glucose and oxygen. It takes place in the chloroplasts, where chlorophyll captures light energy."
+  },
+  {
+    "label": "Incomplete response",
+    "prompt": "List three causes of climate change.",
+    "response": "One cause of climate change is burning fossil fuels."
+  },
+  {
+    "label": "Hallucinated response",
+    "prompt": "Who was the first president of the United States?",
+    "response": "The first president of the United States was Benjamin Franklin, who served from 1776 to 1785."
+  },
+  {
+    "label": "Instruction-following failure",
+    "prompt": "Answer in exactly one word: what gas do humans breathe in to survive?",
+    "response": "Humans breathe in oxygen, which is a colorless and odorless gas essential for survival."
+  }
+]

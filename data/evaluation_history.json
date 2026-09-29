@@ -1,0 +1,47 @@
+[
+  {
+    "Date/Time": "2026-09-29 15:51",
+    "Prompt": "Explain photosynthesis in two sentences",
+    "Overall Score": 100.0,
+    "AI Recommendation": "PASS",
+    "Human Decision": "Approve",
+    "Hallucination Risk": "Low",
+    "Reviewer Notes": "Approved"
+  },
+  {
+    "Date/Time": "2026-09-29 16:22",
+    "Prompt": "Who was the first president of the United States?",
+    "Overall Score": 60.5,
+    "AI Recommendation": "FAIL",
+    "Human Decision": "Approve",
+    "Hallucination Risk": "High",
+    "Reviewer Notes": ""
+  },
+  {
+    "Date/Time": "2026-09-29 16:25",
+    "Prompt": "List three causes of climate change.",
+    "Overall Score": 76.5,
+    "AI Recommendation": "HUMAN REVIEW",
+    "Human Decision": "Needs Correction",
+    "Hallucination Risk": "Low",
+    "Reviewer Notes": "Since AI generated response is incomplete needs correction. Original prompt asked for three reasons and AI just provided one which is incomplete"
+  },
+  {
+    "Date/Time": "2026-09-29 16:27",
+    "Prompt": "Answer in exactly one word: what gas do humans breathe in to survive?",
+    "Overall Score": 80.0,
+    "AI Recommendation": "HUMAN REVIEW",
+    "Human Decision": "Needs Correction",
+    "Hallucination Risk": "Low",
+    "Reviewer Notes": ""
+  },
+  {
+    "Date/Time": "2026-09-29 16:33",
+    "Prompt": "What is the capital of Australia?",
+    "Overall Score": 63.0,
+    "AI Recommendation": "FAIL",
+    "Human Decision": "Reject",
+    "Hallucination Risk": "High",
+    "Reviewer Notes": "The answer is Canberra not Sydney."
+  }
+]
